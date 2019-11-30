@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CSharpFundamentos.Capitulo03.Variaveis
+namespace CSharpFundamentos
 {
     public partial class Form1 : Form
     {

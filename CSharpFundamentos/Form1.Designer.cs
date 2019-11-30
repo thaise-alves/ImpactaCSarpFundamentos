@@ -1,4 +1,4 @@
-﻿namespace CSharpFundamentos.Capitulo03.Variaveis
+﻿namespace CSharpFundamentos
 {
     partial class Form1
     {
